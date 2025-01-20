@@ -5,8 +5,7 @@ export default function Home() {
     <h1>home page11</h1>
     <footer>
       <div>
-      <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
-      <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2023011913号</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2023011913号-1</a>
       </div>
     </footer>
   </div>
